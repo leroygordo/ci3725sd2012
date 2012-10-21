@@ -2,9 +2,9 @@
 ## Traductores e Interpretadores
 
 ----------
-## <a href="noticias.html">Noticias del Curso</a>
+## <a href="noticias.html">Noticias del Curso</a> (Última fecha y hora de actualización: 20/10/2012 a las 4:50 pm)
 
-## Consultas: <a href="semana1.html">Semana 1</a>
+## Consultas: <a href="semana1.html">Semana 1</a> <a href="semana2.html">Semana 2</a>
 <br>
 
 ---
@@ -18,7 +18,9 @@
 
  **Consulta:** Previa cita por correo.
 
- **Notas**
+ **Notas** [Entrega 1](seccion1.pdf)
+
+ [Listado](seccion1)
 
 * **Sección 2:** <a href="mailto:hancel.gonzalez@gmail.com">Hancel González</a> 
 
@@ -26,7 +28,9 @@
 
  **Consulta:** Previa cita por correo o si me ven en los pasillos o sala de lectura.
 
- **Notas**
+ **Notas** [Entrega 1](seccion2.pdf)
+
+ [Listado](seccion2)
 
 * **Sección 3:** <a href="mailto:gml.josea2@gmail.com">José A. Goncalves</a> 
 
@@ -34,8 +38,9 @@
 
  **Consulta:** Previa cita por correo.
 
- **Notas**
+ **Notas** [Entrega 1](seccion3.pdf)
 
+ [Listado](seccion3)
 
 * **Sección 4:** <a href="mailto:chinoxyz@gmail.com">José Sánchez</a>
  
@@ -43,7 +48,9 @@
 
  **Consulta:** Previa cita por correo.
 
- **Notas**
+ **Notas** [Entrega 1](http://ldc.usb.ve/~09-10790/notas/notas_traductores_2012_sept_dic.htm)
+
+ [Listado](seccion4)
 
 También pueden enviar sus dudas por correo.
 
@@ -145,7 +152,7 @@ Se plantean 5 entregas para el desarrollo de este proyecto:
     <td>Analizador Lexicográfico y Programa Principal</td>
   </tr>
   <tr align="center">
-    <td>2</td>
+    <td><a href="entrega2.html">Enunciado Entrega 2</a></td>
     <td>5</td>
     <td>5</td>
     <td>Gramática Inicial y TAD Tabla de Símbolos</td>
